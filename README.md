@@ -34,6 +34,11 @@ Zero configuration, high availability, and low latency powered by global edge ne
 
 ## Self-Hosting
 
+### One-Click Deploy
+
+<a href="https://repocloud.io/details/BeaverHabits/"><img src="https://d16t0pc4846x52.cloudfront.net/deploylobe.svg" alt="Deploy on RepoCloud" height="42"></a>
+<a href="https://railway.com/deploy/beaverhabits"><img src="https://railway.com/button.svg" alt="Deploy on Railway" height="42"></a>
+
 ### Unraid
 
 Simply search for "Beaver Habit Tracker" in the Community Apps store!
